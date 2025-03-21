@@ -1,7 +1,7 @@
-# Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
+# Ex No: 03 - Implementation & Analysis of CMOS D Latch using Cadence EDA Tools
 
 ## Aim
-The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
+The aim is to design, implement, and analyze a D LATCH using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
 ## Tools Required
 
@@ -19,11 +19,11 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 ### 1. Launch Cadence Virtuoso Environment
 - Open the Cadence Virtuoso tool and set up the working library.
-- Create a new schematic cell view for the D flip-flop design.
+- Create a new schematic cell view for the D Latch design.
 
 ### 2. Schematic Design
 - Select NMOS and PMOS transistors from the library.
-- Design the D flip-flop circuit with key components such as clock signal input, D input, and Q output.
+- Design the D Latch circuit with key components such as clock signal input, D input, and Q output.
 - Implement feedback connections to enable sequential behavior.
 - Connect appropriate voltage sources for logic control and supply.
 
@@ -35,27 +35,27 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 - Use Spectre simulator to perform transient analysis and functional verification.
 
 ### 4. Waveform Analysis
-- Observe the output waveform to confirm correct D flip-flop functionality.
+- Observe the output waveform to confirm correct D Latch functionality.
 - Ensure that the Q output follows the D input on the rising edge of the clock signal.
 
 ## Circuit Diagram
 
 ### 1. Schematic of D Flip-Flop
-*![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)*
+![EXP 3 SCHEMATIC](https://github.com/user-attachments/assets/3701067c-0798-4d5d-9626-ef65e8c3c3c9)
+
 
 ### 2. Transient Response Setup
 *
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)*
-
-
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+![EXP 3 TRANS ](https://github.com/user-attachments/assets/b725cebb-ab1b-4b7f-9db1-c1a382fa4d44) 
+![EXP 3 ANALYSES](https://github.com/user-attachments/assets/b04db80a-4747-4e4f-a90b-b9272b71a037)
 
 ## Output
 
 ### 1. Transient Analysis Output
-* ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)*
+![EXP 3 OUTPUT ](https://github.com/user-attachments/assets/eab831c5-4cce-45f9-b0c3-1a1b5418deaf)
+
 
 ## Results
-1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
+1. Successfully designed the D Latch schematic using Cadence EDA tools.
 2. The simulation results verified the correct sequential logic behavior, ensuring that the Q output correctly follows the D input on the rising edge of the clock.
-3. The waveform analysis demonstrated the expected timing behavior and performance of the D flip-flop circuit.
+3. The waveform analysis demonstrated the expected timing behavior and performance of the D Latch circuit.
