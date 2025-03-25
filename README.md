@@ -46,8 +46,9 @@ The aim is to design, implement, and analyze a D LATCH using Cadence EDA tools, 
 
 ### 2. Transient Response Setup
 *
-![EXP 3 TRANS ](https://github.com/user-attachments/assets/b725cebb-ab1b-4b7f-9db1-c1a382fa4d44) 
-![EXP 3 ANALYSES](https://github.com/user-attachments/assets/b04db80a-4747-4e4f-a90b-b9272b71a037)
+![image](https://github.com/user-attachments/assets/1f3ca348-55f6-41df-82e5-bce0f5cae560)
+![image](https://github.com/user-attachments/assets/84c96dcc-e3da-4cf7-b9c1-80d807f5a88b)
+
 
 ## Output
 
